@@ -12,7 +12,7 @@ Extractor
 - [ ] , : 은 기본 구분자
 
 InputView
-- [ ] 데이터 입력
+- [x] 데이터 입력
 
 OutputView
 - [ ] 데이터 출력
