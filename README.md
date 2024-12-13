@@ -15,4 +15,4 @@ InputView
 - [x] 데이터 입력
 
 OutputView
-- [ ] 데이터 출력
+- [x] 데이터 출력
