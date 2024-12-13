@@ -16,3 +16,5 @@ InputView
 
 OutputView
 - [x] 데이터 출력
+- [x] 문자열 입력 프롬프트 추가
+- [x] 덧셈 결과 출력 기능
